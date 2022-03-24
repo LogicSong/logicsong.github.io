@@ -1,0 +1,1 @@
+import{g as e,f as t,G as r}from"./common-bec3f312.js";const o='{"title":"如何写专利","frontmatter":{"date":"2022-03-24","title":"如何写专利","tags":[2022,"其他"],"describe":"写专利的基操"},"relativePath":"docs/how-to-write-a-patent.md","lastUpdated":1648116072018.2483}';var p={};const n=r('',5);p.render=function(r,o,p,a,l,s){return t(),e("div",null,[n])};export default p;export{o as __pageData};
