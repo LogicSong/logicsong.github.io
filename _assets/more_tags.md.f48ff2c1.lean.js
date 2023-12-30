@@ -1,0 +1,1 @@
+import{g as t,j as e,f as a,q as r}from"./common-bec3f312.js";const o='{"title":"📂 分类","frontmatter":{"page":true,"date":"1970-01-01","title":"📂 分类","describe":"分类"},"relativePath":"more/tags.md","lastUpdated":1703922631168.0994}';var s={};s.render=function(o,s,n,d,i,l){const m=r("Tags");return a(),t("div",null,[e(m)])};export default s;export{o as __pageData};
